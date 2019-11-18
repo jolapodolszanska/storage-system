@@ -25,7 +25,7 @@ namespace MagazineProject
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            var connection = Configuration.GetConnectionString("MagazineDatabase");
+            var connection = Configuration.GetConnectionString("StorageDatabase");
             services.AddDbContext<StorageDBContext>(options => options.UseSqlServer(connection));
 
             services.AddControllersWithViews();

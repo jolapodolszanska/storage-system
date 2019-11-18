@@ -8168,9 +8168,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jola\\source\\repos\\MagazineProject\\MagazineProject\\MagazineProject.csproj",
-      "projectName": "MagazineProject",
-      "projectPath": "C:\\Users\\Jola\\source\\repos\\MagazineProject\\MagazineProject\\MagazineProject.csproj",
+      "projectUniqueName": "C:\\Users\\Jola\\source\\repos\\MagazineProject\\MagazineProject\\StorageProject.csproj",
+      "projectName": "StorageProject",
+      "projectPath": "C:\\Users\\Jola\\source\\repos\\MagazineProject\\MagazineProject\\StorageProject.csproj",
       "packagesPath": "C:\\Users\\Jola\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Jola\\source\\repos\\MagazineProject\\MagazineProject\\obj\\",
       "projectStyle": "PackageReference",
